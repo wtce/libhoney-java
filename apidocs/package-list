@@ -1,0 +1,10 @@
+io.honeycomb.libhoney
+io.honeycomb.libhoney.eventdata
+io.honeycomb.libhoney.responses
+io.honeycomb.libhoney.responses.impl
+io.honeycomb.libhoney.transport
+io.honeycomb.libhoney.transport.batch
+io.honeycomb.libhoney.transport.batch.impl
+io.honeycomb.libhoney.transport.impl
+io.honeycomb.libhoney.transport.json
+io.honeycomb.libhoney.utils

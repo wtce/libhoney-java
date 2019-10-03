@@ -19,6 +19,6 @@ Build with Java 7 and above by running the following from the root directory:
 
 Features, bug fixes and other changes to `libhoney` are gladly accepted. Please
 open issues or a pull request with your change. Remember to add your name to the
-CONTRIBUTORS file!
+CONTRIBUTORS file.
 
 All contributions will be released under the Apache License 2.0.
